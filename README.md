@@ -2,10 +2,10 @@
 
 <h3> 👾 Um pouco sobre mim: </h3>
 
-- ⚡ Uso o Python como linguagem principal
+- ⚡ Utilizo Python e JavaScript
 - 💻 Técnico em Informática
 - 🎓 Cursando Ciência da Computação - IFC
-- ⚙ Trabalhando como programador (e designer)
+- ⚙ Trabalhando como programador
 - 🖋 Designer
 - 🎥 Editor de vídeos
 - 🎼 Aprendendo música
