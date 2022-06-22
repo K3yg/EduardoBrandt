@@ -2,7 +2,7 @@
 
 <h3> 👾 Um pouco sobre mim: </h3>
 
-- ⚡ Utilizo Python e JavaScript
+- ⚡ Utilizo Python e JavaScript/Node
 - 💻 Técnico em Informática
 - 🎓 Cursando Ciência da Computação - IFC
 - ⚙ Trabalhando como programador
